@@ -1,0 +1,27 @@
+.skill-wrap {
+	margin-top: 20px;
+}
+
+.skill-wrap .desc {
+	margin-bottom: 20px;
+}
+
+.skill-wrap .desc h3 {
+	color: #fff;
+	margin-bottom: 10px;
+}
+
+.skill-wrap .desc ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.skill-wrap .desc ul li {
+	margin-bottom: 10px;
+}
+
+.skill-wrap .desc ul li i {
+	color: #fff;
+	margin-right: 10px;
+}
